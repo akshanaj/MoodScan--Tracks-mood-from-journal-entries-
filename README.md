@@ -28,5 +28,3 @@ While building this project, I quickly realized the challenges involved in using
 
 That led me to focus less on binary sentiment classification, and more on mapping the **emotional journey** within a piece of writing. The goal isn’t just to say “this is happy” or “this is sad,” but to recognize the **nuances and shifts in feeling**, allowing for more meaningful mood tracking over time.
 
-##  Folder Structure (Optional)
- say “this is happy” or “this is sad,” but to recognize the nuances and shifts in feeling, allowing for more meaningful mood tracking over time.
